@@ -1,0 +1,118 @@
+{
+	"colors": [
+    {
+      "first": {
+        "hex": "#9DB8D3",
+        "swatch": "15-4020",
+        "colorName": "Cerulean"
+      },
+      "second" : {
+        "hex": "#C54575",
+        "swatch": "17-2031",
+        "colorName": "Fuschia Rose"
+      },
+      "third" : {
+        "hex": "#BD1D35",
+        "swatch": "19-1664",
+        "colorName": "True Red"
+      },
+      "fourth" : {
+        "hex": "#7CC4C3",
+        "swatch": "14-4811",
+        "colorName": "Aqua Sky"
+      },
+      "fifth" : {
+        "hex": "#E05844",
+        "swatch": "17-1456",
+        "colorName": "Tigerlily"
+      },
+      "sixth" : {
+        "hex": "#58B0AE",
+        "swatch": "15-5217",
+        "colorName": "Blue Turquoise"
+      },
+      "seventh" : {
+        "hex": "#DECCBF",
+        "swatch": "13-1106",
+        "colorName": "Sand Dollar"
+      },
+      "eighth" : {
+        "hex": "#991F34",
+        "swatch": "19-1557",
+        "colorName": "Chili Pepper"
+      },
+      "ninth" : {
+        "hex": "#5A5C9C",
+        "swatch": "18-3943",
+        "colorName": "Blue Iris"
+      },
+      "tenth" : {
+        "hex": "#EFBF62",
+        "swatch": "14-0848",
+        "colorName": "Mimosa"
+      },
+      "eleventh" : {
+        "hex": "#4AB5A9",
+        "swatch": "15-5519",
+        "colorName": "Turquoise"
+      },
+      "twelfth" : {
+        "hex": "#D75171",
+        "swatch": "18-2120",
+        "colorName": "Honeysuckle"
+      },
+      "thirteenth" : {
+        "hex": "#DA422D",
+        "swatch": "17-1463",
+        "colorName": "Tangerine Tango"
+      },
+      "fourteenth" : {
+        "hex": "#149372",
+        "swatch": "17-5641",
+        "colorName": "Emerald"
+      },
+      "fifteenth" : {
+        "hex": "#B165A3",
+        "swatch": "18-3224",
+        "colorName": "Radiant Orchid"
+      },
+      "sixteenth" : {
+        "hex": "#975253",
+        "swatch": "18-1438",
+        "colorName": "Marsala"
+      },
+      "seventeenth" : {
+        "hex1": "#F5CACA",
+        "hex2": "#92A9D1",
+        "swatch": "15-3919/13-1520",
+        "colorName": "Serenity & Rose Quartz"
+      },
+      "eighteenth" : {
+        "hex": "#94B55D",
+        "swatch": "15-0343",
+        "colorName": "Greenery"
+      },
+      "ninteenth" : {
+        "hex": "#604d8d",
+        "swatch": "18-3838",
+        "colorName": "Ultra Violet"
+      },
+      "twentieth": {
+        "hex": "#FA7268",
+        "swatch": "16-1546",
+        "colorName": "Living Coral"
+      },
+      "twentyFirst": {
+        "hex": "#0F4C81",
+        "swatch": "19-4052",
+        "colorName": "Classic Blue"
+      },
+      "twentySecond": {
+        "hex": "#97999B",
+        "hex2": "#F5DF4D",
+        "swatch": "17-5104/13-0647",
+        "colorName": "Ultimate Gray & lluminating"
+      }
+    }
+  ]
+}
