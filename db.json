@@ -4,114 +4,136 @@
       "first": {
         "hex": "#9DB8D3",
         "swatch": "15-4020",
-        "colorName": "Cerulean"
+        "colorName": "Cerulean",
+        "year": 2000
       },
       "second" : {
         "hex": "#C54575",
         "swatch": "17-2031",
-        "colorName": "Fuschia Rose"
+        "colorName": "Fuschia Rose",
+        "year": 2001
       },
       "third" : {
         "hex": "#BD1D35",
         "swatch": "19-1664",
-        "colorName": "True Red"
+        "colorName": "True Red",
+        "year": 2002
       },
       "fourth" : {
         "hex": "#7CC4C3",
         "swatch": "14-4811",
-        "colorName": "Aqua Sky"
+        "colorName": "Aqua Sky",
+        "year": 2003
       },
       "fifth" : {
         "hex": "#E05844",
         "swatch": "17-1456",
-        "colorName": "Tigerlily"
+        "colorName": "Tigerlily",
+        "year": 2004
       },
       "sixth" : {
         "hex": "#58B0AE",
         "swatch": "15-5217",
-        "colorName": "Blue Turquoise"
+        "colorName": "Blue Turquoise",
+        "year": 2005
       },
       "seventh" : {
         "hex": "#DECCBF",
         "swatch": "13-1106",
-        "colorName": "Sand Dollar"
+        "colorName": "Sand Dollar",
+        "year": 2006
       },
       "eighth" : {
         "hex": "#991F34",
         "swatch": "19-1557",
-        "colorName": "Chili Pepper"
+        "colorName": "Chili Pepper",
+        "year": 2007
       },
       "ninth" : {
         "hex": "#5A5C9C",
         "swatch": "18-3943",
-        "colorName": "Blue Iris"
+        "colorName": "Blue Iris",
+        "year": 2008
       },
       "tenth" : {
         "hex": "#EFBF62",
         "swatch": "14-0848",
-        "colorName": "Mimosa"
+        "colorName": "Mimosa",
+        "year": 2009
       },
       "eleventh" : {
         "hex": "#4AB5A9",
         "swatch": "15-5519",
-        "colorName": "Turquoise"
+        "colorName": "Turquoise",
+        "year": 2010
       },
       "twelfth" : {
         "hex": "#D75171",
         "swatch": "18-2120",
-        "colorName": "Honeysuckle"
+        "colorName": "Honeysuckle",
+        "year": 2011
       },
       "thirteenth" : {
         "hex": "#DA422D",
         "swatch": "17-1463",
-        "colorName": "Tangerine Tango"
+        "colorName": "Tangerine Tango",
+        "year": 2012
       },
       "fourteenth" : {
         "hex": "#149372",
         "swatch": "17-5641",
-        "colorName": "Emerald"
+        "colorName": "Emerald",
+        "year": 2013
       },
       "fifteenth" : {
         "hex": "#B165A3",
         "swatch": "18-3224",
-        "colorName": "Radiant Orchid"
+        "colorName": "Radiant Orchid",
+        "year": 2014
       },
       "sixteenth" : {
         "hex": "#975253",
         "swatch": "18-1438",
-        "colorName": "Marsala"
+        "colorName": "Marsala",
+        "year": 2015
       },
       "seventeenth" : {
         "hex1": "#F5CACA",
         "hex2": "#92A9D1",
         "swatch": "15-3919/13-1520",
-        "colorName": "Serenity & Rose Quartz"
+        "colorName": "Serenity & Rose Quartz",
+        "year": 2016
       },
       "eighteenth" : {
         "hex": "#94B55D",
         "swatch": "15-0343",
-        "colorName": "Greenery"
+        "colorName": "Greenery",
+        "year": 2017
       },
       "ninteenth" : {
         "hex": "#604d8d",
         "swatch": "18-3838",
-        "colorName": "Ultra Violet"
+        "colorName": "Ultra Violet",
+        "year": 2018
       },
       "twentieth": {
         "hex": "#FA7268",
         "swatch": "16-1546",
-        "colorName": "Living Coral"
+        "colorName": "Living Coral",
+        "year": 2019
       },
       "twentyFirst": {
         "hex": "#0F4C81",
         "swatch": "19-4052",
-        "colorName": "Classic Blue"
+        "colorName": "Classic Blue",
+        "year": 2020
       },
       "twentySecond": {
         "hex": "#97999B",
         "hex2": "#F5DF4D",
         "swatch": "17-5104/13-0647",
-        "colorName": "Ultimate Gray & lluminating"
+        "colorName": "Ultimate Gray & lluminating",
+        "year": 2021
       }
     }
   ]
