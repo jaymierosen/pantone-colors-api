@@ -4,141 +4,164 @@
       "hex": "#9DB8D3",
       "swatch": "15-4020",
       "colorName": "Cerulean",
-      "year": 2000
+      "year": 2000,
+      "index": 0
     },
     {
       "hex": "#C54575",
       "swatch": "17-2031",
       "colorName": "Fuschia Rose",
-      "year": 2001
+      "year": 2001,
+      "index": 1
     },
     {
       "hex": "#BD1D35",
       "swatch": "19-1664",
       "colorName": "True Red",
-      "year": 2002
+      "year": 2002,
+      "index": 2
     },
     {
       "hex": "#7CC4C3",
       "swatch": "14-4811",
       "colorName": "Aqua Sky",
-      "year": 2003
+      "year": 2003,
+      "index": 3
     },
     {
       "hex": "#E05844",
       "swatch": "17-1456",
       "colorName": "Tigerlily",
-      "year": 2004
+      "year": 2004,
+      "index": 4
     },
     {
       "hex": "#58B0AE",
       "swatch": "15-5217",
       "colorName": "Blue Turquoise",
-      "year": 2005
+      "year": 2005,
+      "index": 5
     },
     {
       "hex": "#DECCBF",
       "swatch": "13-1106",
       "colorName": "Sand Dollar",
-      "year": 2006
+      "year": 2006,
+      "index": 6
     },
     {
       "hex": "#991F34",
       "swatch": "19-1557",
       "colorName": "Chili Pepper",
-      "year": 2007
+      "year": 2007,
+      "index": 7
     },
     {
       "hex": "#5A5C9C",
       "swatch": "18-3943",
       "colorName": "Blue Iris",
-      "year": 2008
+      "year": 2008,
+      "index": 8
     },
     {
       "hex": "#EFBF62",
       "swatch": "14-0848",
       "colorName": "Mimosa",
-      "year": 2009
+      "year": 2009,
+      "index": 9
     },
     {
       "hex": "#4AB5A9",
       "swatch": "15-5519",
       "colorName": "Turquoise",
-      "year": 2010
+      "year": 2010,
+      "index": 10
     },
     {
       "hex": "#D75171",
       "swatch": "18-2120",
       "colorName": "Honeysuckle",
-      "year": 2011
+      "year": 2011,
+      "index": 11
     },
     {
       "hex": "#DA422D",
       "swatch": "17-1463",
       "colorName": "Tangerine Tango",
-      "year": 2012
+      "year": 2012,
+      "index": 12
     },
     {
       "hex": "#149372",
       "swatch": "17-5641",
       "colorName": "Emerald",
-      "year": 2013
+      "year": 2013,
+      "index": 13
     },
     {
       "hex": "#B165A3",
       "swatch": "18-3224",
       "colorName": "Radiant Orchid",
-      "year": 2014
+      "year": 2014,
+      "index": 14
     },
     {
       "hex": "#975253",
       "swatch": "18-1438",
       "colorName": "Marsala",
-      "year": 2015
+      "year": 2015,
+      "index": 15
     },
     {
       "hex": "#92A9D1",
       "hex2": "#F5CACA",
       "swatch": "13-1520/15-3919",
       "colorName": " Rose Quartz & Serenity",
-      "year": 2016
+      "year": 2016,
+      "index": 16
     },
     {
       "hex": "#94B55D",
       "swatch": "15-0343",
       "colorName": "Greenery",
-      "year": 2017
+      "year": 2017,
+      "index": 17
     },
     {
       "hex": "#604d8d",
       "swatch": "18-3838",
       "colorName": "Ultra Violet",
-      "year": 2018
+      "year": 2018,
+      "index": 18
     },
     {
       "hex": "#FA7268",
       "swatch": "16-1546",
       "colorName": "Living Coral",
-      "year": 2019
+      "year": 2019,
+      "index": 19
     },
     {
       "hex": "#0F4C81",
       "swatch": "19-4052",
       "colorName": "Classic Blue",
-      "year": 2020
+      "year": 2020,
+      "index": 20
     },
     {
       "hex": "#97999B",
       "hex2": "#F5DF4D",
       "swatch": "17-5104/13-0647",
       "colorName": "Ultimate Gray & lluminating",
-      "year": 2021
+      "year": 2021,
+      "index": 21
     },
     {
       "hex": "#6667AB",
       "swatch": "17-3938",
       "colorName": "Very Peri",
-      "year": 2022
+      "year": 2022,
+      "index": 22
     }
   ]
 }
