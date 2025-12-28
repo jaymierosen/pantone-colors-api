@@ -162,6 +162,34 @@
       "colorName": "Very Peri",
       "year": 2022,
       "index": 22
+    },
+    {
+      "hex": "#BB2649",
+      "swatch": "18-1750",
+      "colorName": "Viva Magenta",
+      "year": 2023,
+      "index": 22
+    },
+    {
+      "hex": "#FFBE98",
+      "swatch": "13-1023",
+      "colorName": "Peach Fuzz",
+      "year": 2024,
+      "index": 24
+    },
+    {
+      "hex": "#A47864",
+      "swatch": "17-1230",
+      "colorName": "Mocha Mousse",
+      "year": 2025,
+      "index": 25
+    },
+    {
+      "hex": "#F0EFEA",
+      "swatch": "11-4201",
+      "colorName": "Cloud Dancer",
+      "year": 2026,
+      "index": 26
     }
   ]
 }
